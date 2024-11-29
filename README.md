@@ -1,8 +1,8 @@
 <p align="center"><a href="https://www.sternenzelt.net.pe" target="_blank"><img src="https://raw.githubusercontent.com/SternenzeltDevTeam/sternenzelt/main/resources/images/logo_banner.png?token=GHSAT0AAAAAACVZGKFZ42R2RLBS6EHCMJO4ZWP2SRQ"></a></p>
 
-## Acerca de Sternenzelt
+## Acerca de Andenes de Chilina
 
-Bienvenido al readme de Sternenzelt, aqui verás el progreso de desarrollo y los primeros pasos al uso del codigo de la pagina, psdta: si lees esto, tu jefe te dará un bono (?)
+Bienvenidos a la web de andenes de Chilina, aquí podrán el progreso del trabajo realizado por el equipo de TI, de la mano de nuestro socio, la empresa STERNENZELT.
 
 ## Licencia
 
