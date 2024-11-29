@@ -6,4 +6,4 @@ Bienvenidos a la web de andenes de Chilina, aquí podrán el progreso del trabaj
 
 ## Licencia
 
-Advertencia, este código y recursos empleados dentro del proyecto, son propiedad intelectual de sternenzelt EIRL. "sternenzelt" 
+Advertencia, este código y recursos empleados dentro del proyecto, son propiedad intelectual de Sternenzelt EIRL. Bajo licencia otorgada a IEP ANDENES DE CHILINA. EMEDU EIRL. 
